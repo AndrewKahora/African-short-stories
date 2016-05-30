@@ -9,8 +9,10 @@ body {
 h1 {
     color: blueviolet;
     text-align: center;
+    font-family: "oswald";
     
     h2 {colour:green;
+        font-family:"Open Sans" 
     }    
 }
 
